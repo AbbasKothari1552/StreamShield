@@ -19,7 +19,7 @@ DEFAULT_CONFIG = {
         "login_forms": True,   # Default: hide login forms
         "links": True          # Default: hide links
     },
-    "beep_words": "default_beep_words.txt"  # Default file path for beep words
+    "beep_words": "../static/default_beep_words.txt"  # Default file path for beep words
 }
 
 
